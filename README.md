@@ -1,2 +1,1 @@
-# .github
-yY
+welcome to starlight  this is a game made by tgnick
